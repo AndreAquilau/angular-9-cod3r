@@ -18,8 +18,10 @@
     "module": "es2020",
     "lib": [
       "es2018",
-      "dom"
-    ]
+      "dom",
+      "ESNext"
+    ],
+    "strictPropertyInitialization": false,
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
